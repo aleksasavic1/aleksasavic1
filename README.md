@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aleksasavic1&show_icons=true&theme=transparent" alt="Aleksa's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aleksasavic1&show_icons=true&theme=radical" alt="Aleksa's GitHub Stats" />
 </p>
 
 
