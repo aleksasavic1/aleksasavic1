@@ -9,6 +9,22 @@
 </p>
 
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=aleksasavic1&theme=radical&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+</p>
+
+
+### ⚡ Recent GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aleksasavic1&theme=react-dark&area=true" alt="GitHub Activity Graph" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=aleksasavic1&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
+
+
 ### 🧰 Tech Stack
 <p>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
