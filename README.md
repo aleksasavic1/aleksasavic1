@@ -4,12 +4,6 @@
   🚀 Frontend Web Developer 
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=aleksasavic1&theme=radical&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aleksasavic1&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
 ### 🧰 Tech Stack
 <p>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
@@ -19,6 +13,12 @@
   <img src="https://img.shields.io/badge/ReactQuery-FF4154?style=for-the-badge&logo=react-query&logoColor=white" />
 </p>
 
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=aleksasavic1&theme=radical&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aleksasavic1&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 
 ---
 
