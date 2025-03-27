@@ -4,16 +4,11 @@
   🚀 Frontend Web Developer 
 </p>
 
-<table align="center">
-  <tr>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=aleksasavic1&theme=radical&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aleksasavic1&layout=compact&theme=radical" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=aleksasavic1&theme=radical&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aleksasavic1&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 
 
 <p align="center">
