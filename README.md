@@ -4,14 +4,10 @@
   🚀 Frontend Web Developer 
 </p>
 
-<p align="center">
+<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aleksasavic1&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=aleksasavic1&theme=radical&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
-</p>
+</div>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=aleksasavic1&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
