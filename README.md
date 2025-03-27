@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Aleksa Savić</h1>
+<h1 align="center">Aleksa Savić</h1>
 
 <p align="center">
   🚀 Frontend Web Developer 
@@ -28,13 +28,6 @@ I'm always eager to learn new things, improve my skills, and work on meaningful 
 ### 🌟 Latest Project
 
 #### 🖥️ [`horizon-website`](https://github.com/aleksasavic1/horizon-website)
-
-A modern web application built with:
-- **React + TypeScript**
-- **Zustand & React Query**
-- **Styled Components**
-
-> Stay tuned for the live demo! 🚧
 
 ---
 
