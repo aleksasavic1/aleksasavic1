@@ -1,4 +1,4 @@
-<h1 align="center">Aleksa Savić</h1>
+<h1 align="center">👋 Hi, I'm Aleksa Savić</h1>
 
 <p align="center">
   🚀 Frontend Web Developer 
