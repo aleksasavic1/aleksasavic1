@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Aleksa Savić</h1>
 
 <p align="center">
-  🚀 Frontend Web Developer | React Enthusiast | TypeScript Lover  
+  🚀 Frontend Web Developer 
 </p>
 
 ---
@@ -21,8 +21,7 @@ I'm always eager to learn new things, improve my skills, and work on meaningful 
 - **Frontend:** React, Material UI, Tailwind CSS, Styled Components
 - **State Management:** Zustand, Redux
 - **Data Fetching:** React Query, Axios
-- **UX & Feedback:** React Toastify, MUI Snackbar
-- **Other:** Git, GitHub, Figma, VS Code
+- **UX & Feedback:** React Toastify
 
 ---
 
@@ -34,7 +33,6 @@ A modern web application built with:
 - **React + TypeScript**
 - **Zustand & React Query**
 - **Styled Components**
-- Fully responsive & beautifully animated
 
 > Stay tuned for the live demo! 🚧
 
